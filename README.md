@@ -1,5 +1,8 @@
 # Mercado Libre: A Strategic Analysis
 
+Website : https://vinidsouza9.github.io/MELI-Analysis/
+
+
 An interactive, single-page site walking through a strategic analysis of Mercado Libre (NASDAQ: MELI): Latin America's e-commerce, fintech, and logistics ecosystem. Built for MSIS 501: Information Technology and Organizational Strategy (Summer 2026), University of Washington, Foster School of Business.
 
 ## Tech stack
